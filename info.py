@@ -48,12 +48,6 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/how_to_open_vp_link")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "b90fb45c32d576ff32a3d48fa064c4e205468e81")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'vplink.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "b90fb45c32d576ff32a3d48fa064c4e205468e81")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'vplink.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "b90fb45c32d576ff32a3d48fa064c4e205468e81")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'vplink.in')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
